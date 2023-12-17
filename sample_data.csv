@@ -1,0 +1,37 @@
+FIRST NAME,LAST NAME,SEX,DESIGNATION,AGE,UNIT,RATINGS,PAST EXP
+ROWENA,ARAUJO,F,Analyst,24.0,Management,4.0,0
+RANDI,ANON,F,Analyst,21.0,Finance,5.0,0
+DARYL,ACKERSON,M,Analyst,24.0,Marketing,5.0,2
+BENNIE,ADDUCI,M,Analyst,24.0,Management,3.0,1
+EMMA,ALTSISI,F,Analyst,25.0,Finance,2.0,1
+SANDI,ARIMOTO,F,Analyst,23.0,Web,3.0,0
+PAT,ADY,M,Associate,29.0,Operations,4.0,3
+GRETA,ANSLINGER,F,Associate,30.0,Web,2.0,5
+SHELBY,AIAVA,M,Associate,29.0,Management,4.0,2
+CURTIS,ABELLERA,M,Associate,30.0,Operations,3.0,7
+MAYA,ARINGTON,F,Associate,31.0,Finance,2.0,3
+MILLARD,AHRENHOLZ,M,Associate,28.0,Operations,3.0,2
+CARMEN,AHUJA,M,Director,40.0,IT,4.0,15
+ADELAIDE,ARCHIBOLD,F,Director,39.0,Web,5.0,13
+EMORY,AKERY,M,Director,44.0,Management,5.0,16
+LAKEISHA,APONTE,F,Director,45.0,Management,2.0,18
+ROSE,ALSING,F,Director,39.0,Marketing,3.0,13
+ADELAIDE,ARCHIBOLD,F,Director,39.0,Web,5.0,13
+FREDRICK,ACORS,M,Manager,32.0,Operations,4.0,2
+VALENCIA,ARLEDGE,F,Manager,34.0,Finance,2.0,10
+EVANGELINA,AQUINO,F,Manager,35.0,Marketing,2.0,9
+JORGE,ABRAMIAN,M,Manager,32.0,Web,2.0,4
+LUCAS,ADELMAN,M,Manager,34.0,IT,4.0,8
+JEWELL,ANGELI,F,Manager,32.0,Finance,3.0,7
+NIKKI,ANDRODE,F,Senior Analyst,26.0,Finance,5.0,2
+DANETTE,AREOLA,F,Senior Analyst,28.0,Management,4.0,5
+LINWOOD,AIUDI,M,Senior Analyst,25.0,Management,2.0,2
+SHAWN,ANDRICK,F,Senior Analyst,26.0,Web,2.0,0
+HAI,ALMEN,M,Senior Analyst,28.0,Finance,3.0,2
+CRUZ,AKAMINE,M,Senior Analyst,28.0,Finance,4.0,4
+IGNACIO,ADOMAITIS,M,Senior Manager,39.0,Finance,5.0,10
+ESTEBAN,AGUSTINE,M,Senior Manager,37.0,Management,4.0,11
+CYNTHIA,ALONZA,F,Senior Manager,38.0,Operations,4.0,11
+MIKE,ABELA,M,Senior Manager,37.0,Finance,3.0,12
+HAYDEN,ALLSHOUSE,M,Senior Manager,37.0,IT,3.0,13
+JAE,ALLGAEUER,M,Senior Manager,37.0,Marketing,3.0,8
